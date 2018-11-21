@@ -1,0 +1,15 @@
+Problème:
+
+"toto" => {t:2, o:2}
+
+
+///////////////////////
+"toto"
+
+*traverser la chaine de caractère
+*pour chaque lettre
+--je vais la comptabiliser = comptabiliser dans un objet
+----si la lettre a déjà était vu auparavant 
+----si la lettre n'a pas déjà était vu auparavant
+
+*retourner mon objet
